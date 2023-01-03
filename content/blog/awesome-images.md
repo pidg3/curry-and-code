@@ -8,6 +8,8 @@ description: Fix for gatsby-plugin-mdx and gatsby-remark-images
 
 ## Netlify CMS Media Configuration
 
+T﻿his is a test of new content.
+
 First, in your `static/admin/config.yml`, make sure you have the following:
 
 ```
